@@ -1,0 +1,4 @@
+I will Try Singleton in this example!!
+I will Try Singleton in this example!!
+I will Try Singleton in this example!!
+I will Try Singleton in this example!!
